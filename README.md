@@ -85,6 +85,17 @@ protected void onDestroy() {
 | [powerline-fonts](https://github.com/powerline/fonts) | Powerline 用户的修补字体。 |
 
 
+## .NET方向
+
+| name                                                      | desc                                 |
+| --------------------------------------------------------- | ------------------------------------ |
+| [.NET CORE](https://github.com/aspnet/AspNetCore.Docs)    | .NET CORE官方文档 |
+| [Java学习+面试指南](https://github.com/Hi-Cloudy/JavaGuide)| 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识https://gitee.com/SnailClimb/JavaGuide                                     |
+| [CS-Notes](https://github.com/Hi-Cloudy/CS-Notes)         | :books: 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计 |
+
+
+
+
 ## Go 语言
 
 | name                                                         | desc                                                         |
